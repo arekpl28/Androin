@@ -23,7 +23,7 @@ public class DetailFragment extends Fragment {
         return view;
     }
 
-    public void showDasicData() {
+    public void showBasicData() {
         titleTextView.setText("Dane podstawowe");
         detailTextView.setText("Arek Plumbaum");
     }
